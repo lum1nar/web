@@ -5,38 +5,38 @@
 
 # checklist
 
-## HTML
-[ ]How the web works, HTTP, DNS, SEO, etc
-[x] Basic Tags
-[x] Textual Tags
-[x] Grouping Text
-[x] Standard Attributes
-[x] Lists and Types
-[x] Table Tag
-[x] Embedding Media
-[x] Forms
-[ ] Semantic Markup
+## HTML [Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [ ] How the web works, HTTP, DNS, SEO, etc
+- [x] Basic Tags
+- [x] Textual Tags
+- [x] Grouping Text
+- [x] Standard Attributes
+- [x] Lists and Types
+- [x] Table Tag
+- [x] Embedding Media
+- [x] Forms
+- [ ] Semantic Markup
 
-## CSS
-[x ] Selectors
-[x ] Colors
-[x ] Units & Sizes
-[x ] Box Model
-[ ] Typography
-[ ] Styling Links
-[ ] List Styles 
-[ ] Display
-[ ] Floats
-[ ] Columns
-[ ] Position
-[ ] Flexbox
-[ ] Grid Layout
-[ ] Images
-[ ] Media Queries
-[ ] Card
-[ ] Pseudo
-[ ] Variables
-[ ] Functions
-[ ] Animations
-[ ] Organizations
+## CSS [Tutorial](https://www.youtube.com/watch?v=n4R2E7O-Ngo)
+- [x] Selectors
+- [x] Colors
+- [x] Units & Sizes
+- [x] Box Model
+- [ ] Typography
+- [ ] Styling Links
+- [ ] List Styles 
+- [ ] Display
+- [ ] Floats
+- [ ] Columns
+- [ ] Position
+- [ ] Flexbox
+- [ ] Grid Layout
+- [ ] Images
+- [ ] Media Queries
+- [ ] Card
+- [ ] Pseudo
+- [ ] Variables
+- [ ] Functions
+- [ ] Animations
+- [ ] Organizations
 
