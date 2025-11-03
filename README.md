@@ -23,7 +23,7 @@
 - [x] Units & Sizes
 - [x] Box Model
 - [x] Typography
-- [ ] Styling Links
+- [x] Styling Links
 - [ ] List Styles 
 - [ ] Display
 - [ ] Floats
