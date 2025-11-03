@@ -27,7 +27,7 @@
 - [x] List Styles 
 - [x] mini project
 - [x] Display
-- [ ] Floats
+- [x] Floats
 - [ ] Columns
 - [ ] Position
 - [ ] Flexbox

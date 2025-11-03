@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
+
+body {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 1.5rem;
+}
+
+.block {
+    width: 30vw;
+    height: 30vw;
+    background-color: #000;
+    color: #fff;
+    padding: 1rem;
+}
+
+.left {
+    float: left;
+    margin-right: 1rem;
+}
+
+.right {
+    float: right;
+    margin-left: 1rem;
+}
+
+section {
+    background-color: bisque;
+    border: 1px solid #333;
+    padding: 1rem;
+    display: flow-root;
+}
