@@ -25,6 +25,7 @@
 - [x] Typography
 - [x] Styling Links
 - [x] List Styles 
+- [x] mini project
 - [ ] Display
 - [ ] Floats
 - [ ] Columns

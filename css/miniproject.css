@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+nav {
+    margin: 10px auto;
+    border: 1px solid #000;
+    max-width: 600px;
+    border-radius: 2rem;
+    line-height: 7rem;
+    font-size: 3rem;
+}
+
+li {
+    list-style-type: none;
+    border-top: 1px solid #333;
+}
+
+li a,
+li a:visited {
+    text-decoration: none;
+    color: #333;
+    display: block;
+}
+
+h2 {
+    padding: 1rem;
+    background-color: orange;
+    border-radius: 2rem 2rem 0 0;
+}
+
+li a:hover,
+li a:focus {
+    background-color: #333;
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+li:last-child a {
+    border-radius: 0 0 2rem 2rem;
+}
