@@ -22,7 +22,7 @@
 - [x] Colors
 - [x] Units & Sizes
 - [x] Box Model
-- [ ] Typography
+- [x] Typography
 - [ ] Styling Links
 - [ ] List Styles 
 - [ ] Display
