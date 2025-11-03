@@ -26,7 +26,7 @@
 - [x] Styling Links
 - [x] List Styles 
 - [x] mini project
-- [ ] Display
+- [x] Display
 - [ ] Floats
 - [ ] Columns
 - [ ] Position
