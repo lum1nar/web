@@ -24,7 +24,7 @@
 - [x] Box Model
 - [x] Typography
 - [x] Styling Links
-- [ ] List Styles 
+- [x] List Styles 
 - [ ] Display
 - [ ] Floats
 - [ ] Columns
