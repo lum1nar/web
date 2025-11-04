@@ -28,7 +28,7 @@
 - [x] mini project
 - [x] Display
 - [x] Floats
-- [ ] Columns
+- [x] Columns
 - [ ] Position
 - [ ] Flexbox
 - [ ] Grid Layout
