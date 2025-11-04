@@ -30,7 +30,7 @@
 - [x] Floats
 - [x] Columns
 - [x] Position
-- [ ] Flexbox
+- [x] Flexbox
 - [ ] Grid Layout
 - [ ] Images
 - [ ] Media Queries
