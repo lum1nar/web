@@ -32,7 +32,8 @@
 - [x] Position
 - [x] Flexbox
     - [x] [Flexboxfroggy](https://flexboxfroggy.com/)
-- [ ] Grid Layout
+- [x] Grid Layout
+    - [x] [GridGarden](https://cssgridgarden.com/)
 - [ ] Images
 - [ ] Media Queries
 - [ ] Card
