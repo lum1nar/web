@@ -35,7 +35,7 @@
 - [x] Grid Layout
     - [x] [GridGarden](https://cssgridgarden.com/)
 - [x] Images
-- [ ] Media Queries
+- [x] Media Queries
 - [ ] Card
 - [ ] Pseudo
 - [ ] Variables
