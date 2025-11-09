@@ -34,7 +34,7 @@
     - [x] [Flexboxfroggy](https://flexboxfroggy.com/)
 - [x] Grid Layout
     - [x] [GridGarden](https://cssgridgarden.com/)
-- [ ] Images
+- [x] Images
 - [ ] Media Queries
 - [ ] Card
 - [ ] Pseudo

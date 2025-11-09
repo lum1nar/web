@@ -37,17 +37,42 @@ img {
     gap: 30px;
 
     background-color: rgb(251, 210, 156);
-    background-image: url("../image/Black.png");
+    background-image: url("../image/landscape.jpg");
+    background-repeat: repeat;
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    background-size: cover;
+    /* background-size: contain; */
 }
 
 body {
     font-family: "JetBrains Mono", monospace;
     min-height: 100vh;
+    /* background-image: linear-gradient(to right, white, steelblue); */
 }
 
 .h1 {
     font-size: 500%;
+    text-shadow: 2px 2px 10px #000;
     color: whitesmoke;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    align-content: center;
+    justify-content: center;
+}
+
+p {
+    font-weight: 900;
+    font-size: 10rem;
+    text-align: center;
+    background-image: url("/image/landscape.jpg");
+    background-size: cover;
+    background-position: bottom;
+    -webkit-background-clip: text;
+    color: transparent;
 }
 
 .nowrap {
