@@ -39,7 +39,7 @@
 - [x] Card Project
 - [x] Pseudo
 - [x] Variables
-- [ ] Functions
+- [x] Functions
 - [ ] Animations
 - [ ] Organizations
 
