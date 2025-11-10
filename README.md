@@ -37,7 +37,7 @@
 - [x] Images
 - [x] Media Queries
 - [x] Card Project
-- [ ] Pseudo
+- [x] Pseudo
 - [ ] Variables
 - [ ] Functions
 - [ ] Animations
