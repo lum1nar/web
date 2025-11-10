@@ -36,7 +36,7 @@
     - [x] [GridGarden](https://cssgridgarden.com/)
 - [x] Images
 - [x] Media Queries
-- [ ] Card
+- [x] Card Project
 - [ ] Pseudo
 - [ ] Variables
 - [ ] Functions
