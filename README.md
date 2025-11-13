@@ -40,6 +40,6 @@
 - [x] Pseudo
 - [x] Variables
 - [x] Functions
-- [ ] Animations
+- [x] Animations
 - [ ] Organizations
 
