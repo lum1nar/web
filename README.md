@@ -43,3 +43,13 @@
 - [x] Animations
 - [x] Organizations
 
+## JavaScript [Tutorial](https://www.youtube.com/watch?v=m55PTVUrlnA)
+- [x] Variables, Loops, Data Types, Conditionals, Functions
+- [x] Array, Objects
+- [x] Select DOM
+- [x] Event listener
+- [x] Add and remove DOM element
+- [x] Add and remove classes from DOM elements
+- [ ] Fetch
+- [ ] Local storage
+
