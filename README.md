@@ -51,7 +51,7 @@
 - [x] Add and remove classes from DOM elements
 - [x] Ajax
 - [x] Fetch
-- [ ] Async / await
+- [x] Async / await
 - [ ] Local storage
 - [ ] 30 Days, 30 JavaScript Project
 - [ ] Checkpoint: Todolist using local storage
