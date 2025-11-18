@@ -50,7 +50,7 @@
 - [x] Add and remove DOM element
 - [x] Add and remove classes from DOM elements
 - [x] Ajax
-- [ ] Fetch
+- [x] Fetch
 - [ ] Async / await
 - [ ] Local storage
 - [ ] 30 Days, 30 JavaScript Project
