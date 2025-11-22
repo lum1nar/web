@@ -52,7 +52,7 @@
 - [x] Ajax
 - [x] Fetch
 - [x] Async / await
-- [ ] Local storage
+- [x] Local storage
 - [ ] 30 Days, 30 JavaScript Project
 - [ ] Checkpoint: Todolist using local storage
 
