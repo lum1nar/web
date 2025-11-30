@@ -56,3 +56,17 @@
 - [ ] 30 Days, 30 JavaScript Project
 - [ ] Checkpoint: Todolist using local storage
 
+## TypeScript [Tutorial](https://www.youtube.com/watch?v=BCg4U1FzODs)
+- [x] TSC (TypeScript Compiler)
+- [x] Config File
+- [x] Basic Types
+- [x] Arrays & Tuples
+- [x] Unions & Enum
+- [x] Objects
+- [x] Functions
+- [x] Interfaces
+- [x] Classes
+- [x] Data Modifiers
+- [x] Implement Interface in Class
+- [x] Extending Classes (Subclasses)
+- [x] Generics
