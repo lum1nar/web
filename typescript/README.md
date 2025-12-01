@@ -6,8 +6,12 @@ tsc --init
 ```
 
 2. 建立 package.json
+```bash
+npm init
+```
+
 ```bash 
-#package.json
+# package.json
 {
     "scripts": {
         "dev": "tsc --watch"

@@ -70,3 +70,15 @@
 - [x] Implement Interface in Class
 - [x] Extending Classes (Subclasses)
 - [x] Generics
+- [x] tsconfig.json
+
+## npm [Doc](https://docs.npmjs.com/)
+- [x] Initialization
+- [x] package.json
+- [x] [Local Package](https://docs.npmjs.com/downloading-and-installing-packages-locally)
+- [x] [Global Package](https://docs.npmjs.com/downloading-and-installing-packages-globally)
+
+## Node.js [Tutorial](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+- [x] Initializatio
+- [x] Exports & Require
+- [ ] Path Module 
