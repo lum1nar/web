@@ -87,3 +87,5 @@
 - [x] Node:FS Module 
 - [x] Node:OS Module 
 - [x] Node:URL Module
+- [x] Node:Events Module
+
