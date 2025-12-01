@@ -53,6 +53,7 @@
 - [x] Fetch
 - [x] Async / await
 - [x] Local storage
+- [x] Try-Catch
 - [ ] 30 Days, 30 JavaScript Project
 - [ ] Checkpoint: Todolist using local storage
 
@@ -81,4 +82,8 @@
 ## Node.js [Tutorial](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 - [x] Initializatio
 - [x] Exports & Require
-- [ ] Path Module 
+- [x] Module Wrapper Function
+- [x] Node:Path Module 
+- [x] Node:FS Module 
+- [x] Node:OS Module 
+- [x] Node:URL Module
