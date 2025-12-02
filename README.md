@@ -88,4 +88,9 @@
 - [x] Node:OS Module 
 - [x] Node:URL Module
 - [x] Node:Events Module
+- [x] Node:HTTP Module
 
+## Heroku
+- [ ] Heroku CLI
+- [ ] Heroku Deploy
+- [ ] Env Variable
