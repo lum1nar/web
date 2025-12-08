@@ -1,9 +1,19 @@
 const http = require("node:http");
 const fs = require("node:fs");
 const path = require("node:path");
+const { Client } = require("pg");
 const { clear, log } = require("node:console");
 
-const server = http.createServer((req, res) => {
+const client = new Client({
+    user: "postgres",
+    host: "localhost",
+    database: "testdb",
+    password: "lum1na0929",
+    port: 5432,
+});
+
+client.connect();
+const server = http.createServer(async (req, res) => {
     // return a html file
     // if (req.url == "/home") {
     //     fs.readFile(path.join(__dirname, "public", "home.html"), (err, data) => {
@@ -57,29 +67,32 @@ const server = http.createServer((req, res) => {
     }
 
     // readfile
-    fs.readFile(filePath, (err, content) => {
-        if (err) {
-            console.log("errcode:", err.code);
-            if (err.code == "ENOENT") {
-                // Page Not Found
-                fs.readFile(
-                    path.join(__dirname, "public", "404.html"),
-                    (err, content) => {
-                        res.writeHead(200, { "content-type": "text/html" });
-                        res.end(content);
-                    },
-                );
-            } else {
-                // Some Server Error
-                res.writeHead(500);
-                res.end(`Server Error: ${err.code}`);
-            }
-        } else {
-            //success
-            res.writeHead(200, { "content-type": contentType });
-            res.end(content);
-        }
-    });
+    // fs.readFile(filePath, (err, content) => {
+    //     if (err) {
+    //         console.log("errcode:", err.code);
+    //         if (err.code == "ENOENT") {
+    //             // Page Not Found
+    //             fs.readFile(
+    //                 path.join(__dirname, "public", "404.html"),
+    //                 (err, content) => {
+    //                     res.writeHead(200, { "content-type": "text/html" });
+    //                     res.end(content);
+    //                 },
+    //             );
+    //         } else {
+    //             // Some Server Error
+    //             res.writeHead(500);
+    //             res.end(`Server Error: ${err.code}`);
+    //         }
+    //     } else {
+    //         //success
+    //         const pgres = await client.query('')
+    //         res.writeHead(200, { "content-type": contentType });
+    //         res.end(content);
+    //     }
+    // });
+    const pgres = await client.query("SELECT NOW()");
+    res.end(JSON.stringify(pgres.rows));
 });
 
 const PORT = process.env.PORT || 5000;
