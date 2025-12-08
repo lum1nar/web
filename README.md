@@ -101,3 +101,17 @@
 - [x] Heroku CLI
 - [x] Heroku Deploy
 - [] Env Variable
+
+## PostgreSQL
+
+- [x] Installtion & Setup
+- [x] Create DataBase
+- [x] Create Table
+  - [x] Data Type
+  - [x] Primary Key
+  - [x] Foreign Key
+- [x] Data Query
+  - [x] Create
+  - [x] Read
+  - [x] Update
+  - [x] Delete
