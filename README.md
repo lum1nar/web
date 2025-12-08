@@ -115,3 +115,4 @@
   - [x] Read
   - [x] Update
   - [x] Delete
+- [ ] integration with nodejs
