@@ -1,4 +1,5 @@
 # motivation
+
 - I don't know what I really want as a cs student
 - I felt stuck and I decided to give web dev a decent try
 - Roadmap ref by [roadmap.sh](https://roadmap.sh/)
@@ -6,6 +7,7 @@
 # checklist
 
 ## HTML [Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+
 - [ ] How the web works, HTTP, DNS, SEO, etc
 - [x] Basic Tags
 - [x] Textual Tags
@@ -18,22 +20,23 @@
 - [ ] Semantic Markup
 
 ## CSS [Tutorial](https://www.youtube.com/watch?v=n4R2E7O-Ngo)
+
 - [x] Selectors
 - [x] Colors
 - [x] Units & Sizes
 - [x] Box Model
 - [x] Typography
 - [x] Styling Links
-- [x] List Styles 
+- [x] List Styles
 - [x] mini project
 - [x] Display
 - [x] Floats
 - [x] Columns
 - [x] Position
 - [x] Flexbox
-    - [x] [Flexboxfroggy](https://flexboxfroggy.com/)
+  - [x] [Flexboxfroggy](https://flexboxfroggy.com/)
 - [x] Grid Layout
-    - [x] [GridGarden](https://cssgridgarden.com/)
+  - [x] [GridGarden](https://cssgridgarden.com/)
 - [x] Images
 - [x] Media Queries
 - [x] Card Project
@@ -58,6 +61,7 @@
 - [ ] Checkpoint: Todolist using local storage
 
 ## TypeScript [Tutorial](https://www.youtube.com/watch?v=BCg4U1FzODs)
+
 - [x] TSC (TypeScript Compiler)
 - [x] Config File
 - [x] Basic Types
@@ -74,23 +78,26 @@
 - [x] tsconfig.json
 
 ## npm [Doc](https://docs.npmjs.com/)
+
 - [x] Initialization
 - [x] package.json
 - [x] [Local Package](https://docs.npmjs.com/downloading-and-installing-packages-locally)
 - [x] [Global Package](https://docs.npmjs.com/downloading-and-installing-packages-globally)
 
 ## Node.js [Tutorial](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+
 - [x] Initializatio
 - [x] Exports & Require
 - [x] Module Wrapper Function
-- [x] Node:Path Module 
-- [x] Node:FS Module 
-- [x] Node:OS Module 
+- [x] Node:Path Module
+- [x] Node:FS Module
+- [x] Node:OS Module
 - [x] Node:URL Module
 - [x] Node:Events Module
 - [x] Node:HTTP Module
 
 ## Heroku
-- [ ] Heroku CLI
-- [ ] Heroku Deploy
-- [ ] Env Variable
+
+- [x] Heroku CLI
+- [x] Heroku Deploy
+- [] Env Variable
