@@ -100,7 +100,10 @@
 
 - [x] Heroku CLI
 - [x] Heroku Deploy
-- [] Env Variable
+- [ ] Env Variable
+- [x] Custom Domain Name
+  - [x] Namesilo
+  - [x] CloudFlare
 
 ## PostgreSQL
 
