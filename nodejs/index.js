@@ -91,7 +91,12 @@ const server = http.createServer(async (req, res) => {
     //         res.end(content);
     //     }
     // });
-    const pgres = await client.query("SELECT NOW()");
+
+    await client.query(
+        "INSERT INTO users (name, age, email) VALUES ($1, $2, $3)",
+        ["luma", 22, "l@gmail.com"],
+    );
+    const pgres = await client.query("SELECT * from users");
     res.end(JSON.stringify(pgres.rows));
 });
 

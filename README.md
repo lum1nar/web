@@ -118,4 +118,5 @@
   - [x] Read
   - [x] Update
   - [x] Delete
-- [ ] integration with nodejs
+- [x] integration with nodejs
+- [ ] Heroku integration
